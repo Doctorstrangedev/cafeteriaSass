@@ -1,0 +1,12 @@
+$cafe:#743c20;
+$cafeClaro:#92624a;
+
+//asignar a la paleta de colores de bootstrap
+
+$primary:$cafe;
+$secondary:$cafeClaro;
+
+//tipografia de bootstrap
+$display-font-weight: 900;
+$heading-font-weight: 700;
+@import '../../node_modules/bootstrap/scss/bootstrap.scss'
