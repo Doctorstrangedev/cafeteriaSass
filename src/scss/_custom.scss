@@ -9,4 +9,9 @@ $secondary:$cafeClaro;
 //tipografia de bootstrap
 $display-font-weight: 900;
 $heading-font-weight: 700;
+
+//personalizar card
+
+$card-border-color: transparent;
+
 @import '../../node_modules/bootstrap/scss/bootstrap.scss'
