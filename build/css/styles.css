@@ -3839,8 +3839,8 @@ textarea.form-control-lg {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
-  color: #743c20;
+  padding: 0.5rem 0;
+  color: #b5b5b5b5;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3850,7 +3850,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #5d301a;
+  color: #ffffffdc;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -11138,10 +11138,6 @@ span {
   font-size: 2.6rem;
   font-family: "Pacifico", cursive;
   width: 10rem;
-}
-
-i {
-  width: 2rem;
 }
 
 .locales .card:hover {

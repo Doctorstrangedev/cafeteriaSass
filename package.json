@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sass --watch src/scss:build/css"
+    "start": "sass --watch src/scss:build/css",
+    "build": "purgecss --css build/css/styles.css --content index.html --output build/css/cofeetime.css"
   },
   "author": "Daniel Portales Beltran",
   "license": "MIT",
