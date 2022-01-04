@@ -11150,4 +11150,12 @@ span {
   color: #877450;
 }
 
+.galeria{
+  cursor: pointer;
+}
+
+#galeriaZoom .modal-img{
+  width:350px;
+}
+
 /*# sourceMappingURL=styles.css.map */

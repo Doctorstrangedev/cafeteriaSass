@@ -650,11 +650,6 @@ iframe {
     min-height: calc(100% - 3.5rem);
   }
 }
-@media (min-width: 992px) {
-  .modal-lg {
-    max-width: 800px;
-  }
-}
 
 /* rtl:begin:ignore */
 
@@ -885,6 +880,14 @@ span {
 }
 .locales .card .horarios {
   color: #877450;
+}
+
+.galeria{
+  cursor: pointer;
+}
+
+#galeriaZoom .modal-img{
+  width:350px;
 }
 
 /*# sourceMappingURL=styles.css.map */
