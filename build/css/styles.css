@@ -11140,6 +11140,10 @@ span {
   width: 10rem;
 }
 
+.pacifico {
+  font-family: "Pacifico", cursive;
+}
+
 .locales .card:hover {
   cursor: pointer;
 }
@@ -11148,14 +11152,6 @@ span {
 }
 .locales .card .horarios {
   color: #877450;
-}
-
-.galeria{
-  cursor: pointer;
-}
-
-#galeriaZoom .modal-img{
-  width:350px;
 }
 
 /*# sourceMappingURL=styles.css.map */
